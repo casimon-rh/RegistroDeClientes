@@ -1,0 +1,14 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 900A-9153
+
+ Directorio de C:\Users\Lic. Carlos Vega\Source\RegistroCliente\RegistroDeClientes\RegistroDeClientes
+
+20/01/2017  05:56 p. m.    <DIR>          .
+20/01/2017  05:56 p. m.    <DIR>          ..
+20/01/2017  05:52 p. m.    <DIR>          .vs
+20/01/2017  05:56 p. m.                 0 dir.txt
+20/01/2017  05:52 p. m.    <DIR>          FixedUtil
+20/01/2017  05:52 p. m.    <DIR>          RegistroDeClientesBD
+20/01/2017  05:52 p. m.             1,508 RegistroDeClientesBD.sln
+               2 archivos          1,508 bytes
+               5 dirs  660,399,104,000 bytes libres
