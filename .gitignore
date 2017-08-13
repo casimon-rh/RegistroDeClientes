@@ -6,3 +6,6 @@
 /RegistroDeClientes/RegistroDeClientesBD/bin
 /RegistroDeClientes/GlobalPackages
 /RegistroDeClientes/packages
+*.suo
+/.vs/RegistroDeClientes/v15
+/.vs

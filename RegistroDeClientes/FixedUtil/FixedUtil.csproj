@@ -54,9 +54,6 @@
     <Reference Include="CrystalDecisions.Shared">
       <HintPath>lib\CrystalDecisions.Shared.dll</HintPath>
     </Reference>
-    <Reference Include="DocumentFormat.OpenXml">
-      <HintPath>..\ContratacionWPF\lib\DocumentFormat.OpenXml.dll</HintPath>
-    </Reference>
     <Reference Include="factoraje">
       <HintPath>lib\factoraje.dll</HintPath>
     </Reference>
@@ -88,9 +85,6 @@
     <Reference Include="SAPBusinessObjects.WPF.ViewerShared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>lib\SAPBusinessObjects.WPF.ViewerShared.dll</HintPath>
-    </Reference>
-    <Reference Include="SpreadsheetLight">
-      <HintPath>..\ContratacionWPF\lib\SpreadsheetLight.dll</HintPath>
     </Reference>
     <Reference Include="Spring.Aop, Version=2.0.1.40000, Culture=neutral, PublicKeyToken=65e474d141e25e07, processorArchitecture=MSIL">
       <HintPath>..\packages\Spring.Aop.2.0.1\lib\net40\Spring.Aop.dll</HintPath>
